@@ -1,5 +1,5 @@
 # Craft Beer & Data Science
-![CraftBeerCans](./images/craft-beer-cans.jpg =)
+![CraftBeerCans](./images/craft-beer-cans.jpg)
 
 
 ## Description
