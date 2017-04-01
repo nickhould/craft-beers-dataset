@@ -15,7 +15,7 @@ You'll learn how to:
 -  :fire: Enhance your data set with external data sources (_in-progress_)
 
 
-    <center>:point_right: **[Start here!](https://github.com/nickhould/craft-beers-dataset/blob/master/notebooks/Craft%20Beer%20%26%20Data%20Science%20-%20Part%201%20-%20Scraping%20a%20Dataset.ipynb)**:point_left:</center>
+    :point_right: **[Start here!](https://github.com/nickhould/craft-beers-dataset/blob/master/notebooks/Craft%20Beer%20%26%20Data%20Science%20-%20Part%201%20-%20Scraping%20a%20Dataset.ipynb)**:point_left:
 
 ## Media
 - [Scraping for Craft Beers: A Dataset Creation Tutorial - Kaggle](http://blog.kaggle.com/2017/01/31/scraping-for-craft-beers-a-dataset-creation-tutorial/)
