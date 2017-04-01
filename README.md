@@ -1,4 +1,4 @@
-# Craft Beer & Data Science
+# Craft Beers & Data Science
 ![CraftBeerCans](./images/craft-beer-cans.jpg)
 
 ## Description
@@ -17,11 +17,11 @@ You'll learn how to:
 ## Getting Started
 
 1. Fork this repository.
-2. Open up `notebooks/Craft Beer & Data Science - Part 1 - Scraping a Dataset.ipynb`
+2. Open up `notebooks/Craft Beers & Data Science - Part 1 - Scraping a Dataset.ipynb`
 3. Start exploring the world of craft beers.
 
 Alternatively, you can explore the notebooks from Github:
-:point_right: **[Start here!](https://github.com/nickhould/craft-beers-dataset/blob/master/notebooks/Craft%20Beer%20%26%20Data%20Science%20-%20Part%201%20-%20Scraping%20a%20Dataset.ipynb)**:point_left:
+:point_right: **[Start here!](https://github.com/nickhould/craft-beers-dataset/blob/master/notebooks/Craft%20Beers%20%26%20Data%20Science%20-%20Part%201%20-%20Scraping%20a%20Dataset.ipynb)**:point_left:
 
 ## Media
 
